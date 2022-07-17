@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     // Site URL for when it goes live
-    siteUrl: `https://elastic-meninsky-aa7c74.netlify.app/`,
+    siteUrl: `https://xqwtxon.ml/`,
     // Your Name
     name: 'xqwtxon',
     // Main Site Title
@@ -11,7 +11,7 @@ module.exports = {
     // Optional: Twitter account handle
     author: `@xqwtxon`,
     // Optional: Github account URL
-    github: `https://github.com/xqwtxin`,
+    github: `https://github.com/xqwtxon`,
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/xqwtxon/`,
     // Content of the About Me section
