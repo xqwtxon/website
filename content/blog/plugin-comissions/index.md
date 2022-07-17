@@ -1,6 +1,6 @@
 ---
 title: Plugin Commissions
-date: 'Sun, July 17 2022'
+date: '2022-07-17T08:42:52+00:00'
 description: 'Plugin Commissions in PocketMine-MP'
 ---
 
