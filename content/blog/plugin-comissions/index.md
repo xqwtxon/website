@@ -4,10 +4,10 @@ date: '2022-07-17T08:42:52+00:00'
 description: 'Plugin Commissions in PocketMine-MP'
 ---
 
-## Plugin Commissions
+# Plugin Commissions
 Here's my official plugins are listed, it will release soon or released now.
 
-### Plugin List
+# Plugin List
 Some plugins are not finished, but dont worry you can help us to make it possible!
 
 - [x] [ProfanityFilter](https://github.com/ReinfyTeam/ProfanityFilter)
@@ -17,6 +17,7 @@ Some plugins are not finished, but dont worry you can help us to make it possibl
 - [x] [SlapperParticlesV2](https://github.com/xqwtxon/SlapperParticlesV2)
 - [ ] [BetterModeration](https://github.com/xqwtxon/BetterModeration)
 
+# Information
 This will update as soon as possible whether to check this blog if you want to get full list of them.
 
-*Happy coding ;)*
+<p align="right"><i>Happy coding ;)</i></p>
