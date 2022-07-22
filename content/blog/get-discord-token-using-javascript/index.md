@@ -27,10 +27,10 @@ This tutorial is for educational purposes. Please use it at your own risk. Since
    // Chrome has built in url encoder if you choose Decoded URL.
    // You can choose non-decoded because it is recommendable.
 
-   // Non-Decoded URL
+   // Decoded URL
      javascript:(function(){location.reload();var i = document.createElement('iframe');document.body.appendChild(i);window.prompt("Yourtoken:Tap to Copy It.",i.contentWindow.localStorage.token)})()
 
-   // Decoded URL
+   // Encoded URL
      javascript:(function()%7Blocation.reload()%3Bvar%20i%20%3D%20document.createElement('iframe')%3Bdocument.body.appendChild(i)%3Bwindow.prompt("Your token: Tap%20to%20Copy%20It.",i.contentWindow.localStorage.token)%7D)()
 ```
 
