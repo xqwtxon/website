@@ -1,7 +1,7 @@
 ---
-title: 'Getting Discord Token by using javascript'
-date: 'Fri, 22 Jul 2022 08:05:30 GMT'
-description: "This tutorial will show off how to get token easily using JavaScript"
+title: Getting Discord Token by using javascript
+date: '2022-07-22T10:27:49+0000'
+description: 'This tutorial will show off how to get token easily using JavaScript'
 ---
 
 Getting Discord Token by Using JavaScript
