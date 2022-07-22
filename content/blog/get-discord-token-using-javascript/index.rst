@@ -1,6 +1,6 @@
 ---
 title: Getting Discord Token by using javascript
-date: '2022-07-22T08:42:52+00:00'
+date: '2022-07-22'
 description: 'This tutorial will show off how to get token easily using JavaScript'
 ---
 
