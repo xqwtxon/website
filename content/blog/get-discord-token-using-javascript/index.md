@@ -37,19 +37,15 @@ This tutorial is for educational purposes. Please use it at your own risk. Since
 - **Step #3**: Done, you can now copy your token ;)
 
 ##### Desktop and MAC
-- **Step #1**: Open browser, and go to `https://discord.com/app`_
-.. _`https://discord.com/app`: https://discord.com/channels/@me).
+- **Step #1**: Open browser, and go to: https://discord.com/app
 - **Step #2**: Click on your keyboard: 
-
 `For Windows : CTRL+SHIFT+I`
 
 `For MAC OS X: Ctrl+Option+J`
 
-
 - **Step #2**: Add following codes on console:
 
 ```js
-
    location.reload();
    var i = document.createElement('iframe');document.body.appendChild(i);
    window.prompt("Yourtoken:Tap to Copy It.",i.contentWindow.localStorage.token)
