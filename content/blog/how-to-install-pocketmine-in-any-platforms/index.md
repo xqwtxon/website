@@ -1,6 +1,6 @@
 ---
 title: How to install PocketMine-MP in any platforms/devices.
-date: '2022-07-21'
+date: '2022-07-21T08:42:52+00:00'
 description: 'Install PocketMine-MP in any platforms easily!'
 ---
 
