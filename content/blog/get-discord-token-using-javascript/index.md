@@ -1,36 +1,24 @@
 ---
 title: Getting Discord Token by using javascript
-date: '2022-07-22'
+date: '2022-07-22T08:42:52+00:00'
 description: 'This tutorial will show off how to get token easily using JavaScript'
 ---
 
-Getting Discord Token by Using JavaScript
-======
+### Getting Discord Token by Using JavaScript
 In this tutorial, will show off, how to get your token easily using javascript in any device.
 
-General Purposes
-======
-This tutorial is for educational purposes. Please use it at your own risk. Since this tutorial breaks `Discord Terms of Service`_
+#### General Purposes
+This tutorial is for educational purposes. Please use it at your own risk. Since this tutorial breaks [Discord Terms of Services](https://discord.com/tos)
 
-.. _`Discord Terms of Services`: https://discord.com/tos
+##### Choose your device.
+- [Mobile Devices, IOS](#mobile-and-ios)
 
-Choose your device.
-======
-- `Mobile Devices, IOS`_
+- [Desktop Devices, MAC](#desktop-and-mac)
 
-.. _`Mobile Devices, IOS`: #mobile-and-ios
-
-- `Desktop Devices, MAC`_
-
-.. _`Desktop Devices, MAC`: #desktop-and-mac
-
-Mobile and IOS
-======
-- **Step #1**: Open browser, and go to `https://discord.com/app`_
-.. _`https://discord.com/app`: https://discord.com/channels/@me).
+##### Mobile and IOS
+- **Step #1**: Open browser, and go to https://discord.com/app
 - **Step #2**: Click top of URL, and paste these following:
-
-.. code-block:: javascript
+```js
 
    // Since chrome blocking "javascript:" parameter of url.
    // You must include them in include it on the line of url.
@@ -44,30 +32,29 @@ Mobile and IOS
 
    // Decoded URL
      javascript:(function()%7Blocation.reload()%3Bvar%20i%20%3D%20document.createElement('iframe')%3Bdocument.body.appendChild(i)%3Bwindow.prompt("Your token: Tap%20to%20Copy%20It.",i.contentWindow.localStorage.token)%7D)()
-
+```
 
 - **Step #3**: Done, you can now copy your token ;)
 
-Desktop and MAC
-======
+##### Desktop and MAC
 - **Step #1**: Open browser, and go to `https://discord.com/app`_
 .. _`https://discord.com/app`: https://discord.com/channels/@me).
 - **Step #2**: Click on your keyboard: 
 
-``For Windows : CTRL+SHIFT+I``
+`For Windows : CTRL+SHIFT+I`
 
-``For MAC OS X: Ctrl+Option+J``
+`For MAC OS X: Ctrl+Option+J`
 
 
 - **Step #2**: Add following codes on console:
 
-.. code-block:: javascript
+```js
 
    location.reload();
    var i = document.createElement('iframe');document.body.appendChild(i);
    window.prompt("Yourtoken:Tap to Copy It.",i.contentWindow.localStorage.token)
-
+```
 
 - **Step #3**: Done, you can now copy your token ;)
 
-*Happy Coding ;)*
+<p align="right"><i>Happy Coding ;)</i></p>
