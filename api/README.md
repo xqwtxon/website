@@ -10,6 +10,6 @@ API stands for Application Programming Interface. In the context of APIs, the wo
      - `base64?text=aGVsbG8gd29ybGQ=&format=plain_decode`
   - Base32 Encoder/Decoder
      - `base32?text=Hello+World&format=encode`
-     - `base32?text=JBSWY3DPEBLW64TMMQ======&format=decode`
-     - `base32?text=JBSWY3DPEBLW64TMMQ======&format=plain_decode`
+     - `base32?text=91jprv3f41bpywkccg&format=decode`
+     - `base32?text=91jprv3f41bpywkccg&format=plain_decode`
      - `base32?text=Hello+World&format=plain_encode`
