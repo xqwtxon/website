@@ -13,3 +13,7 @@ API stands for Application Programming Interface. In the context of APIs, the wo
      - `base32?text=91jprv3f41bpywkccg&format=decode`
      - `base32?text=91jprv3f41bpywkccg&format=plain_decode`
      - `base32?text=Hello+World&format=plain_encode`
+  - IsUrl Checker
+     - `isUrl?url=https://example.com`
+     - `isUrl?url=http://example.com`
+     - `isUrl?url=example.com`
