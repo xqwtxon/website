@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/xqwtxon/`,
     // Content of the About Me section
-    about: `Hello, I am making projects and growing up of them. I am reverse-engineering since 2019, Computer Analytics of Science Engineering since 2016, Cumloude graduated in 2014`,
+    about: `Hello, I am making projects and growing up of them. I am reverse-engineering since 2019, Computer Analytics of Engineering since 2016`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
     projects: [
       {
